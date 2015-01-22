@@ -7,4 +7,5 @@ function test {
 ```
 [Google](www.google.com)
 
-We are creating a merge conflict.
+This is a different change that the other file.
+
