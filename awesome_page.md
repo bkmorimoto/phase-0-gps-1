@@ -6,3 +6,5 @@ function test {
 }
 ```
 [Google](www.google.com)
+
+We are creating a merge conflict.
